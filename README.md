@@ -9,7 +9,7 @@ I this lab simulation contains broken code to simulate real-world problems devel
 ### uninitialized memory and 
 ### out-of-bounds errors.
 
-The purpose of this lab is to demonstrate that I not only understand how pointers and memory management work in C++, but I also know how to debug and fix issues with precision — using tools like ### Valgrind ### , ### logical deduction ### , and ### good engineering practice ###.
+The purpose of this lab is to demonstrate that I not only understand how pointers and memory management work in C++, but I also know how to debug and fix issues with precision — using tools like **Valgrind**, **logical deduction**, and **good engineering practice**.
 
 ---
 
